@@ -1,0 +1,10 @@
+.c9revisions
+.c9
+.git
+/.settings/
+/.project
+.DS_Store
+node_modules
+._meta*
+php.ini
+*.log
